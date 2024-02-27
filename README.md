@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bruhkaz8
 - 👀 I’m interested in ur code
 - 🌱 I’m currently learning this world
-- 💞️ I’m looking to collaborate in my cab
+- 💞️ I’m looking to collaborate with u in my cab
 - ⚡ Fun fact: Github making this for me.
 
 <!---
